@@ -1,5 +1,5 @@
 # The Valley Aero Club
-![image](https://github.com/Valleyaero/valleyaeroclub.github.io/blob/main/images/valleyaero.png)
+![image](/images/valleyaero.png)
 
 Welcome to The Valley Aero Club webpage
 
